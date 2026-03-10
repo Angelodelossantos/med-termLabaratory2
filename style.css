@@ -1,0 +1,76 @@
+html{
+
+    background-image: url('https://i.pinimg.com/736x/a1/88/55/a18855b23698f8b229bf9e764b2fdcd2.jpg');
+     background-size: contain;
+     font-family: "Hanalei Fill", system-ui;
+     front-weight: 400;
+     background-attachment: fixed;
+}
+
+    h1{
+
+        font-family: "Hanalei Fill", system-ui;
+        color: rgb(41, 12, 170);
+        front: weight 400rm;
+        front-style:normal;
+        text-align: center;
+        background-attachment: fixed;
+        
+    }
+
+    h2{
+
+        font-family: "Hanalei Fill", system-ui; 
+        front-weight:400;
+        color: rgb(9, 207, 141);
+       
+
+    }
+     
+    p{
+        
+        font-family:  "Hanalei Fill", system-ui;
+        color: rgb(212, 208, 208);
+        
+
+    }
+     li{
+        color: rgb(172, 168, 172);
+        
+     }
+
+     tbody{
+
+        font-family: "Hanalei Fill", system-ui;
+        color: brown;
+        front-weight:400;
+        text-align: center;
+     }
+        table{
+            font-family: "Hanalei Fill", system-ui;
+            color: blue;
+            front-weight:400;
+            text-align: center;
+
+        }
+        caption{
+             font-family: "Hanalei Fill", system-ui;
+             color: brown;
+            front-weight:400;
+            text-align: center;
+        }
+        tr{
+             font-family: "Hanalei Fill", system-ui;
+             color: brown;
+            front-weight:400;
+            text-align: center;
+        }
+        tfoot{
+             font-family: "Hanalei Fill", system-ui;
+             color: brown;
+            front-weight:400;
+            text-align: center;
+        }
+
+
+   
